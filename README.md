@@ -7,7 +7,7 @@
 
 # Скачать по ссылке 
 
-https://github.com/thetemirbolatov/LogoGenius-Dataset/releases/download/v1.0.0/new_logo_dataset.rar
+https://github.com/thetemirbolatov/TILO.RA_CODER_Dataset/releases/download/v1.0.0/tilora_knowledge_merged.jsonl
 
 
 ## Состав
